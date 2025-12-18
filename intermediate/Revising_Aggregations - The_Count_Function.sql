@@ -1,5 +1,5 @@
 -- Problem: Revising Aggregations - The Count Function
--- Difficulty: Basic
+-- Difficulty: Intermediate
 -- Platform: HackerRank
 -- Link: https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/submissions/code/452912108
 
