@@ -1,7 +1,7 @@
 -- Problem: New Companies
 -- Difficulty: Intermediate
 -- Platform: HackerRank
--- Link: https://www.hackerrank.com/challenges/select-all-sql
+-- Link: https://www.hackerrank.com/challenges/the-company/submissions/code/452830907
 
 SELECT 
     c.company_code,
