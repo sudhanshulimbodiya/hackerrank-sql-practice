@@ -1,5 +1,5 @@
 -- Problem: Weather Observation Station 18
--- Difficulty: Intermediate 
+-- Difficulty: Basic 
 -- Platform: HackerRank
 -- Link: https://www.hackerrank.com/challenges/weather-observation-station-18/submissions/code/453102467
 
