@@ -1,5 +1,5 @@
 -- Problem: Weather Observation Station 2
--- Difficulty: Intermediate 
+-- Difficulty: Basic 
 -- Platform: HackerRank
 -- Link: https://www.hackerrank.com/challenges/weather-observation-station-2/submissions/code/452918861
 
